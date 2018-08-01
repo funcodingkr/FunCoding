@@ -40,7 +40,6 @@ https://github.com/funcodingkr/FunCoding/blob/master/JAVA.md
 첫 수업은 무료 상담 및 체험레슨(30분)으로 진행하니 많은 연락 바랍니다.
 
 # 연락처
-LINE : @coe8682v  
 Mail : fun.coding.kr@gmail.com  
-라인 혹은 메일로 연락부탁드리겠습니다.  
+위의 연락처로 연락부탁드리겠습니다.  
 간단한 자기소개/연락받을 연락처 등등을 적어서 보내주세요.
