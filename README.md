@@ -21,10 +21,10 @@ Java/Python 기초/입문 개인과외 수강생을 모집하고 있습니다.
 혼자 코딩할수 있도록 기본 지식 향상을 목표로  
 2달에서 4달정도 코스로 진행하려고 합니다.  
 
-# 활용 예
-Web Scraping을 이용해 주식 정보를 Web으로부터 불러와서  
-Web이나 Bot을 이용해 자신에게 알림 정보를 보내거나  
-사고 팔기등의 명령어를 입력할수 있다.  
+## Python강의 커리큘럼
+https://github.com/funcodingkr/FunCoding/blob/master/PYTHON.md
+## Java강의 커리큘럼
+https://github.com/funcodingkr/FunCoding/blob/master/JAVA.md
 
 # 교육 장소
 신주쿠의 카페에서 진행할 예정입니다.  
