@@ -27,8 +27,7 @@ https://github.com/funcodingkr/FunCoding/blob/master/PYTHON.md
 https://github.com/funcodingkr/FunCoding/blob/master/JAVA.md
 
 # 교육 장소
-신주쿠의 카페에서 진행할 예정입니다.  
-신주쿠 근처일 경우 방문강의 가능할거같습니다.  
+신주쿠역 근처 카페에서 진행할 예정입니다.  
 
 # 강의 시간
 평일 저녁 7시 이후~  
