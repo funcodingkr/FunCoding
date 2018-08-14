@@ -1,13 +1,12 @@
 안녕하세요.  
 저는 4년제 공대를 졸업했고,  
 현재 IT회사를 다니고 있습니다.(경력 5년차)
-
-Java/Python 입문,기초반 개인과외 수강생을 모집하고 있습니다.
+Python 입문,기초반 개인과외 수강생을 모집하고 있습니다.
 
 # 프로그래밍 언어 활용 예
 1. Web Scraping을 이용해 웹툰 업데이트, 블로그 제목/내용/사진 다운받기 등등을 할수있습니다.
 2. Bot을 이용해 자신에게 블로깅/트윗/필터링을 통해 메세지를 전송할수 있습니다.
-3. Web Framework를 이용해서 자신만의 웹페이지를 만들수있습니다.(Python)
+3. Web Framework를 이용해서 자신만의 웹페이지를 만들수있습니다.(강의미정)
 
 # 이런분에게 추천합니다.
 취미부터 시작해서 전문적인 분야까지 배우고 싶으신분  
@@ -23,8 +22,6 @@ Java/Python 입문,기초반 개인과외 수강생을 모집하고 있습니다
 
 ## Python강의 커리큘럼
 https://github.com/funcodingkr/FunCoding/blob/master/PYTHON.md
-## Java강의 커리큘럼
-https://github.com/funcodingkr/FunCoding/blob/master/JAVA.md
 
 # 교육 장소
 신주쿠역 근처 카페에서 진행할 예정입니다.  
